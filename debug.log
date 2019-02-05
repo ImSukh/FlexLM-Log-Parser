@@ -1,24 +1,3 @@
-15:49:07 (lmgrd) -----------------------------------------------
-15:49:07 (lmgrd)   Please Note:
-15:49:07 (lmgrd) 
-15:49:07 (lmgrd)   This log is intended for debug purposes only.
-15:49:07 (lmgrd)   In order to capture accurate license
-15:49:07 (lmgrd)   usage data into an organized repository,
-15:49:07 (lmgrd)   please enable report logging. Use Flexera Software LLC's
-15:49:07 (lmgrd)   software license administration  solution,
-15:49:07 (lmgrd)   FlexNet Manager, to  readily gain visibility
-15:49:07 (lmgrd)   into license usage data and to create
-15:49:07 (lmgrd)   insightful reports on critical information like
-15:49:07 (lmgrd)   license availability and usage. FlexNet Manager
-15:49:07 (lmgrd)   can be fully automated to run these reports on
-15:49:07 (lmgrd)   schedule and can be used to track license
-15:49:07 (lmgrd)   servers and usage across a heterogeneous
-15:49:07 (lmgrd)   network of servers including Windows NT, Linux
-15:49:07 (lmgrd)   and UNIX.
-15:49:07 (lmgrd) 
-15:49:07 (lmgrd) -----------------------------------------------
-15:49:07 (lmgrd) 
-15:49:07 (lmgrd) 
 15:49:07 (lmgrd) Server's System Date and Time: Fri Jul 27 2018 15:49:07 Eastern Daylight Time
 15:49:07 (lmgrd) pid 5372
 15:49:07 (lmgrd) SLOG: Summary LOG statistics is enabled.
